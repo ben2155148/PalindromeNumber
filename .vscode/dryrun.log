@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/benjamingonzalez/Documents/Projects/PalindromeNumber'
+g++ -g -Wall  -o PalindromeNumber PalindromeNumber.cpp 
+make: Leaving directory `/Users/benjamingonzalez/Documents/Projects/PalindromeNumber'
+ 
